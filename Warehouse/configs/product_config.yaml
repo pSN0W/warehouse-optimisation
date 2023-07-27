@@ -1,0 +1,22 @@
+products:
+- product_id: 1
+  number_of_line_for_case: 500
+  average_num_demanded_per_line_for_case: 5
+  volume_of_case: 27.0
+  number_of_line_for_unit: 100
+  average_num_demanded_per_line_for_unit: 4
+  volume_of_unit: 2.7
+- product_id: 2
+  number_of_line_for_case: 200
+  average_num_demanded_per_line_for_case: 7
+  volume_of_case: 8.0
+  number_of_line_for_unit: 400
+  average_num_demanded_per_line_for_unit: 5
+  volume_of_unit: 0.8
+- product_id: 3
+  number_of_line_for_case: 100
+  average_num_demanded_per_line_for_case: 5
+  volume_of_case: 125.0
+  number_of_line_for_unit: 300
+  average_num_demanded_per_line_for_unit: 10
+  volume_of_unit: 1.3

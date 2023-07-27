@@ -1,0 +1,11 @@
+---
+height_of_rack_level: 3
+clearance_percentage: 33.3 
+depth_of_pallet: 2
+aisle_width: 7
+horizantal_velocity_of_picker: 300
+vertical_velocity_of_picker: 100
+cost_of_labor_per_hr: 600
+extraction_constant: 0.007
+rent_per_unit_area: 3
+...
